@@ -17,6 +17,7 @@ To complete this project, you will need to:
 
 ## Testing
 URL: http://cd12099-full-stack-apps-aws-dev2.us-east-1.elasticbeanstalk.com/
+
 Successful URL responses should have a 200 code. Ensure that you include error codes for the scenario that someone uploads something other than an image and for other common errors.
 
 ## License
